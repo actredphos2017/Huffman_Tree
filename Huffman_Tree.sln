@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Huffman_Tree", "Huffman_Tree.vcxproj", "{6BDA4201-E7DB-46B0-AF78-8C7D89DF3099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BDA4201-E7DB-46B0-AF78-8C7D89DF3099}.Debug|x64.ActiveCfg = Debug|x64
+		{6BDA4201-E7DB-46B0-AF78-8C7D89DF3099}.Debug|x64.Build.0 = Debug|x64
+		{6BDA4201-E7DB-46B0-AF78-8C7D89DF3099}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BDA4201-E7DB-46B0-AF78-8C7D89DF3099}.Debug|x86.Build.0 = Debug|Win32
+		{6BDA4201-E7DB-46B0-AF78-8C7D89DF3099}.Release|x64.ActiveCfg = Release|x64
+		{6BDA4201-E7DB-46B0-AF78-8C7D89DF3099}.Release|x64.Build.0 = Release|x64
+		{6BDA4201-E7DB-46B0-AF78-8C7D89DF3099}.Release|x86.ActiveCfg = Release|Win32
+		{6BDA4201-E7DB-46B0-AF78-8C7D89DF3099}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E56B9A3-1E0F-4066-B16D-A633C796BB8D}
+	EndGlobalSection
+EndGlobal
