@@ -8,6 +8,7 @@
 #include <cmath>
 #include <list>
 #include <algorithm>
+#include "Huffman.h"
 
 using namespace std;
 
@@ -17,14 +18,6 @@ double string_to_double(string s);
 
 void Binary_Output(string file_name, string binary_text);
 string Binary_Input(string file_name);
-
-#include "Huffman.h"
-
-string filename(string path);
-string filedir(string path);
-string filenamewithoutext(string path);
-Huffman design_code(string path);
-Huffman build_code(string path);
 
 string file_name[3];
 char ch;

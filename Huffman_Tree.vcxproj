@@ -130,12 +130,10 @@
     <ClCompile Include="BinaryFileEdit.cpp" />
     <ClCompile Include="DoubleMapToInt.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Huffman.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Huffman.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="cf.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
