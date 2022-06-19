@@ -1,5 +1,26 @@
 # 哈夫曼树
 
+## 文件说明
+
+###主程序
+main.cpp
+
+###哈夫曼
+
+哈夫曼数据结构
+Huffman.h
+
+哈夫曼函数
+Huffman.cpp
+
+###工具程序
+
+二进制文件编辑
+BinaryFileEdit.cpp
+
+浮点型权重转整性权重
+DoubleMapToInt.cpp
+
 ## 功能简介
 
 ```
