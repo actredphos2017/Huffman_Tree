@@ -2,7 +2,7 @@
 
 ## 功能简介
 
-```c++
+```
 ======= System Status =======
 Target Code File: NULL                                  //目标编码字典
 Target Origin File: NULL                                //目标原文件
