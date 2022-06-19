@@ -177,9 +177,9 @@ void User_Interface() {
             cout << "Please enter the path of the code-weight file (.txt)" << endl;
             cout << "The text file should be like this:" << endl;
             cout << "A 14" << endl;
-            cout << "B 9" << endl;
+            cout << "B 0.31" << endl;
             cout << "C 27" << endl;
-            cout << "D 1" << endl;
+            cout << "D 1.0" << endl;
             cout << "\\n 5                         <---- \"\\n\" means enter key" << endl;
             cout << "..." << endl << endl;
             cout << "  " << endl;
