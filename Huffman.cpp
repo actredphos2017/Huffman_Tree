@@ -253,7 +253,7 @@ vector<HTree_Node> Huffman::Full_Level_Tree() {
 }
 
 void Huffman::VisualPrint() {
-    int t;
+    int t = 0;
     vector<HTree_Node> full_tree = this->Full_Level_Tree();
     auto it = full_tree.rbegin();
     vector<string> lines;

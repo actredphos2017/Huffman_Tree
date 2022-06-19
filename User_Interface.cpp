@@ -81,7 +81,7 @@ bool bool_cheak(char c, bool& b) {
     return false;
 }
 
-void User_Interface() {
+void Huffman_User_Interface() {
     while (1) {
         head_print();
         cout << "Menu:" << endl << endl;

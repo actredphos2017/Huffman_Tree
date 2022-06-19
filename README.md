@@ -14,7 +14,7 @@ Menu:
  About Code File:
     1. Switch code file in local                        //选择本地编码字典文件
     2. Design code from char-weight file                //用 字符-权重 文件进行哈夫曼树的搭建
-    3. Enter temporary code file into Terminal          //从命令行中输入临时的 字符-权重
+    3. Enter temporary code file into Terminal          //从命令行中输入临时的 字符-编码
     4. Build code file from origin file                 //利用原文件中的字符数频作为权重生成哈夫曼树
 
  About Origin File:
@@ -48,11 +48,17 @@ Menu:
 8 0.11
 ```
 选择操作2
+
 输入该文件的位置
+
 然后程序会构建哈夫曼树
+
 之后选择操作a
+
 可视化查看哈夫曼树
+
 选择操作b
+
 打印输出哈夫曼编码
 
 ### 对文本文件进行哈夫曼编码
@@ -61,7 +67,7 @@ Menu:
  About Code File:
     1. Switch code file in local                        //选择本地编码字典文件
     2. Design code from char-weight file                //用 字符-权重 文件进行哈夫曼树的搭建
-    3. Enter temporary code file into Terminal          //从命令行中输入临时的 字符-权重
+    3. Enter temporary code file into Terminal          //从命令行中输入临时的 字符-编码
     4. Build code file from origin file                 //利用原文件中的字符数频作为权重生成哈夫曼树
 ```
 然后使用功能
@@ -69,6 +75,7 @@ Menu:
     A. Switch origin file to coding/decoding            //选择原文件
 ```
 锁定要编码的文件位置
+
 然后选择编码
 ```
     B. Coding origin file with existed huffman code     //编码
@@ -84,11 +91,13 @@ Menu:
 
 ### 对编码文件进行解码
 先生成与编码文件对应的编码字典
+
 然后使用功能
 ```
     A. Switch origin file to coding/decoding            //选择原文件
 ```
 锁定要编码的文件位置
+
 然后选择译码
 ```
     C. Decoding origin file with existed huffman code   //译码

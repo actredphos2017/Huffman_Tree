@@ -2,10 +2,10 @@
 
 using namespace std;
 
-void User_Interface();
+void Huffman_User_Interface();
 
 int main() {
-	User_Interface();
-	system("pause");
+	cout << "Now Loding User Interface..." << endl;
+	Huffman_User_Interface();
 	return 0;
 }
