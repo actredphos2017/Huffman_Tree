@@ -37,6 +37,7 @@ Menu:
 ### 用频率文件设计哈夫曼树
 
 新建一个文本文件，里面写入以下内容
+
 ```
 1 0.05
 2 0.29
@@ -47,6 +48,7 @@ Menu:
 7 0.03
 8 0.11
 ```
+
 选择操作2
 
 输入该文件的位置
@@ -63,6 +65,7 @@ Menu:
 
 ### 对文本文件进行哈夫曼编码
 利用功能1~4来生成哈夫曼编码字典
+
 ```
  About Code File:
     1. Switch code file in local                        //选择本地编码字典文件
@@ -70,10 +73,13 @@ Menu:
     3. Enter temporary code file into Terminal          //从命令行中输入临时的 字符-编码
     4. Build code file from origin file                 //利用原文件中的字符数频作为权重生成哈夫曼树
 ```
+
 然后使用功能
+
 ```
     A. Switch origin file to coding/decoding            //选择原文件
 ```
+
 锁定要编码的文件位置
 
 然后选择编码
@@ -93,13 +99,17 @@ Menu:
 先生成与编码文件对应的编码字典
 
 然后使用功能
+
 ```
     A. Switch origin file to coding/decoding            //选择原文件
 ```
+
 锁定要编码的文件位置
 
 然后选择译码
+
 ```
     C. Decoding origin file with existed huffman code   //译码
 ```
+
 译码文件会保存在output文件夹下
