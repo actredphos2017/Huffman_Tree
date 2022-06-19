@@ -2,10 +2,10 @@
 
 ## 文件说明
 
-###主程序
+主程序
 main.cpp
 
-###哈夫曼
+哈夫曼
 
 哈夫曼数据结构
 Huffman.h
@@ -13,7 +13,7 @@ Huffman.h
 哈夫曼函数
 Huffman.cpp
 
-###工具程序
+工具程序
 
 二进制文件编辑
 BinaryFileEdit.cpp
