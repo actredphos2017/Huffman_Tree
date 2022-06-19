@@ -130,6 +130,7 @@
     <ClCompile Include="BinaryFileEdit.cpp" />
     <ClCompile Include="DoubleMapToInt.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="User_Interface.cpp" />
     <ClCompile Include="Huffman.cpp" />
   </ItemGroup>
   <ItemGroup>
