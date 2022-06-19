@@ -83,16 +83,20 @@ Menu:
 锁定要编码的文件位置
 
 然后选择编码
+
 ```
     B. Coding origin file with existed huffman code     //编码
 ```
+
 生成的编码文件会保存在output文件夹下
 
 如有需要则需额外
+
 ```
     c. Save huffman code in local                       //保存哈夫曼编码字典
     d. Save huffman tree in local                       //保存哈夫曼树
 ```
+
 来保存编码字典或者哈夫曼树
 
 ### 对编码文件进行解码
