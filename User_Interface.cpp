@@ -329,6 +329,19 @@ void Huffman_User_Interface() {
                     ss << huff_code[c];
             }
             Binary_Output(ofname, ss.str());
+            int n = 0;
+            cout << endl;
+            cout << "     ================== Huffman Code ==================" << endl << endl << "     ";
+            for (auto c : ss.str()) {
+                if (n == 50) {
+                    n = 0;
+                    cout << endl << "     ";
+                }
+                cout << c;
+                n++;
+            }
+            cout << endl << endl;
+            cout << "     ==================================================" << endl << endl;
             cout << "Output file path: " << ofname << endl;
             cout << "Finish!" << endl;
             system("pause");
