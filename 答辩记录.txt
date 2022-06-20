@@ -1,3 +1,5 @@
+#答辩记录
+
 Q 可视化用的什么库？这个库有没有规定在哪个特定的编程环境下运行？
 
 A 使用的是 EasyX 库里的 graphics.h 库，只能在 Visual Studio 的 MSVC 环境下编译。
